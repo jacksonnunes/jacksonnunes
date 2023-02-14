@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/52105722/218883345-1217616c-4915-447e-abaf-25d38f831267.png" alt="Jackson Queiroz Banner">
+<img width="100%" src="https://user-images.githubusercontent.com/52105722/218884298-85e09ae6-c52d-4770-a601-7dda47b3a3e8.png" alt="Jackson Queiroz Banner">
 
 
 ### About me
