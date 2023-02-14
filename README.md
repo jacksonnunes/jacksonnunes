@@ -1,6 +1,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/52105722/218884298-85e09ae6-c52d-4770-a601-7dda47b3a3e8.png" alt="Jackson Queiroz Banner">
 
-![React](https://img.shields.io/static/v1?style=plastic&logo=react&label=code&message=react&color=blue)
+![Javascript](https://img.shields.io/static/v1?style=plastic&logo=javascript&label=code&message=javascript&color=yellow) ![React](https://img.shields.io/static/v1?style=plastic&logo=react&label=code&message=react&color=blue)
 
 ### About me
 
